@@ -1,0 +1,15 @@
+body{
+	color: #333;
+}
+
+.post{
+	margin-bottom: 1em;
+	padding: 1em;
+	border: 1px solid #000;
+	border-radius: 1em;
+}
+
+.field{
+	color: #eee;
+	background-color: #333;
+}
